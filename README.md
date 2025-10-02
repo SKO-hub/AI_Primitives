@@ -1,2 +1,3 @@
 # AI_Primitives
-This is a repostiroy of fundamental processes used in data processing
+
+This repository contains a curated collection of fundamental algorithms and data processing primitives essential for machine learning and AI development. Each implementation demonstrates core concepts in data cleaning, transformation, and preparation workflows. These building blocks form the foundation for data pipelines and model development
